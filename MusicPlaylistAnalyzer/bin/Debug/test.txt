@@ -1,0 +1,8 @@
+Music Playlist Analyzer
+Songs with greater than 200 plays: Losing Touch,Tranquilize (Feat. Lou Reed),"Ruby, Don't Take Your Love to Town",
+Number of Alternative songs: 39
+Number of Hip-Hop/Rap songs: 382
+Songs from Welcome to the FishBowl: Come Over,Feel like a Rock Star (with Tim McGraw),Welcome to the Fishbowl,
+Songs from before 1970: "Hello, I Love You",
+Song names longer than 85 characters: "Do You Mind (feat. Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross)",
+Longest Song: "Devil, Devil (Prelude: Princess of Darkness)",
